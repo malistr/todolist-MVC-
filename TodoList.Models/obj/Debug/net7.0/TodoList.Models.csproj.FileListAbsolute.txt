@@ -1,0 +1,11 @@
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\bin\Debug\net7.0\TodoList.Models.deps.json
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\bin\Debug\net7.0\TodoList.Models.dll
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\bin\Debug\net7.0\TodoList.Models.pdb
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\TodoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\TodoList.Models.AssemblyInfoInputs.cache
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\TodoList.Models.AssemblyInfo.cs
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\TodoList.Models.csproj.CoreCompileInputs.cache
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\TodoList.Models.dll
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\refint\TodoList.Models.dll
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\TodoList.Models.pdb
+D:\Nisantasi\HaftaIci-2023\TodoList\TodoList\TodoList.Models\obj\Debug\net7.0\ref\TodoList.Models.dll
